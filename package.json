@@ -10,13 +10,13 @@
     "coffee-script": "^1.3.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "dev" : "node --watch app.js",
+ "start" : "node app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": {
  
-  
   }
 }
